@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "Dead Frontier Scrapping Data",
+    "version": "1.0.0",
+    "description": "A extension that gets the Dead Frontier scrapping price.",
+    "action": {
+        "default_icon": "/assets/logo.png",
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content.js"]
+        }
+    ],
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "storage",
+        "tabs"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "icons": {
+        "16": "/assets/logo16.png",
+        "48": "/assets/logo48.png",
+        "128": "/assets/logo128.png"
+    }
+}

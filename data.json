@@ -1,0 +1,1272 @@
+{
+    "firepoker": {
+        "name": "Fire Poker",
+        "scrap_price": 50,
+        "mc_scrap_price": 100
+    },
+    "baseballbat": {
+        "name": "Baseball Bat",
+        "scrap_price": 50,
+        "mc_scrap_price": 100
+    },
+    "penknife": {
+        "name": "Pen Knife",
+        "scrap_price": 50,
+        "mc_scrap_price": 100
+    },
+    "huntingknife": {
+        "name": "Hunting Knife",
+        "scrap_price": 63,
+        "mc_scrap_price": 126
+    },
+    "chefknife": {
+        "name": "Chef Knife",
+        "scrap_price": 50,
+        "mc_scrap_price": 100
+    },
+    "cricketbat": {
+        "name": "Cricket Bat",
+        "scrap_price": 100,
+        "mc_scrap_price": 200
+    },
+    "combatknife": {
+        "name": "Combat Knife",
+        "scrap_price": 163,
+        "mc_scrap_price": 326
+    },
+    "golfclub": {
+        "name": "Golf Club",
+        "scrap_price": 100,
+        "mc_scrap_price": 200
+    },
+    "fireaxe": {
+        "name": "Fire Axe",
+        "scrap_price": 163,
+        "mc_scrap_price": 326
+    },
+    "bowieknife": {
+        "name": "Bowie Knife",
+        "scrap_price": 450,
+        "mc_scrap_price": 900
+    },
+    "ironpipe": {
+        "name": "Iron Pipe",
+        "scrap_price": 450,
+        "mc_scrap_price": 900
+    },
+    "nailbat": {
+        "name": "Nail Bat",
+        "scrap_price": 675,
+        "mc_scrap_price": 1350
+    },
+    "razor": {
+        "name": "razor",
+        "scrap_price": 950,
+        "mc_scrap_price": 1900
+    },
+    "crowbar": {
+        "name": "crowbar",
+        "scrap_price": 1275,
+        "mc_scrap_price": 2550
+    },
+    "scalpel": {
+        "name": "scalpel",
+        "scrap_price": 1650,
+        "mc_scrap_price": 3300
+    },
+    "kris": {
+        "name": "kris",
+        "scrap_price": 2550,
+        "mc_scrap_price": 5100
+    },
+    "shovel": {
+        "name": "Shovel",
+        "scrap_price": 2550,
+        "mc_scrap_price": 5100
+    },
+    "trenchknife": {
+        "name": "",
+        "scrap_price": 5450,
+        "mc_scrap_price": 10900
+    },
+    "woodaxe": {
+        "name": "Wood Axe",
+        "scrap_price": 7400,
+        "mc_scrap_price": 14800
+    },
+    "machete": {
+        "name": "Machete",
+        "scrap_price": 7400,
+        "mc_scrap_price": 14800
+    },
+    "kukri": {
+        "name": "Kukri",
+        "scrap_price": 9650,
+        "mc_scrap_price": 19300
+    },
+    "sabre": {
+        "name": "Sabre",
+        "scrap_price": 9650,
+        "mc_scrap_price": 19300
+    },
+    "sledgehammer": {
+        "name": "Sledge Hammer",
+        "scrap_price": 12200,
+        "mc_scrap_price": 24400
+    },
+    "battleaxe": {
+        "name": "Battle Axe",
+        "scrap_price": 20050,
+        "mc_scrap_price": 40100
+    },
+    "katana": {
+        "name": "Katana",
+        "scrap_price": 20050,
+        "mc_scrap_price": 40100
+    },
+    "amputator": {
+        "name": "Amputator",
+        "scrap_price": 50,
+        "mc_scrap_price": 100
+    },
+    "wakizashi": {
+        "name": "Wakizashi",
+        "scrap_price": 22100,
+        "mc_scrap_price": 44200
+    },
+    "doomcane": {
+        "name": "Doom Cane",
+        "scrap_price": 20050,
+        "mc_scrap_price": 40100
+    },
+    "forsakentitaniumblades": {
+        "name": "Titanium Blades",
+        "scrap_price": 50,
+        "mc_scrap_price": 100
+    },
+    "nodachi": {
+        "name": "Nodachi",
+        "scrap_price": 24250,
+        "mc_scrap_price": 48500
+    },
+    "corpsecrusher": {
+        "name": "Corpse Crusher",
+        "scrap_price": 24250,
+        "mc_scrap_price": 48500
+    },
+    "spiker": {
+        "name": "Spiker",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "duskrazor": {
+        "name": "Dusk Razor",
+        "scrap_price": 20050,
+        "mc_scrap_price": 40100
+    },
+    "duskkris": {
+        "name": "Dusk Kris",
+        "scrap_price": 2550,
+        "mc_scrap_price": 5100
+    },
+    "sharktail": {
+        "name": "Sharktail",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "dualblade": {
+        "name": "Dual Blade",
+        "scrap_price": 50,
+        "mc_scrap_price": 100
+    },
+    "xduskkris": {
+        "name": "X-Dusk Kris",
+        "scrap_price": 2550,
+        "mc_scrap_price": 5100
+    },
+    "gutsplitter": {
+        "name": "Gut Splitter",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "xduskrazor": {
+        "name": "X-Dusk Razor",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "santasslayer": {
+        "name": "Santa's Slayer",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "xhammer": {
+        "name": "X-Hammer",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "dawnkris": {
+        "name": "Dawn Kris",
+        "scrap_price": 50,
+        "mc_scrap_price": 100
+    },
+    "dawnblade": {
+        "name": "Dawn Blade",
+        "scrap_price": 50,
+        "mc_scrap_price": 100
+    },
+    "bloodymachete": {
+        "name": "Bloody Machete",
+        "scrap_price": 2550,
+        "mc_scrap_price": 5100
+    },
+    "harvesterofsorrow": {
+        "name": "Harvester of Sorrow",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "inquisitor": {
+        "name": "Inquisitor",
+        "scrap_price": 100000,
+        "mc_scrap_price": 200000
+    },
+    "northpoleaxe": {
+        "name": "North Poleaxe",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "eggsterminator": {
+        "name": "Eggsterminator",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "betatomcat": {
+        "name": "Beta Tomcat",
+        "scrap_price": 75,
+        "mc_scrap_price": 150
+    },
+    "williamsppk": {
+        "name": "Williams PPK",
+        "scrap_price": 75,
+        "mc_scrap_price": 150
+    },
+    "gerringhp": {
+        "name": "Gerring HP",
+        "scrap_price": 75,
+        "mc_scrap_price": 150
+    },
+    "fiftyseven": {
+        "name": "Fifty-Seven",
+        "scrap_price": 150,
+        "mc_scrap_price": 300
+    },
+    "lock19": {
+        "name": "Lock 19",
+        "scrap_price": 850,
+        "mc_scrap_price": 1700
+    },
+    "koltpython": {
+        "name": "Kolt Python",
+        "scrap_price": 850,
+        "mc_scrap_price": 1700
+    },
+    "beta8000": {
+        "name": "Beta 8000",
+        "scrap_price": 1300,
+        "mc_scrap_price": 2600
+    },
+    "ck75": {
+        "name": "CK 75",
+        "scrap_price": 1850,
+        "mc_scrap_price": 3700
+    },
+    "luger": {
+        "name": "Luger",
+        "scrap_price": 2500,
+        "mc_scrap_price": 5000
+    },
+    "lock17": {
+        "name": "Lock 17",
+        "scrap_price": 3250,
+        "mc_scrap_price": 6500
+    },
+    "webster1942": {
+        "name": "Webster 1942",
+        "scrap_price": 3250,
+        "mc_scrap_price": 6500
+    },
+    "lock25": {
+        "name": "Lock 25",
+        "scrap_price": 3250,
+        "mc_scrap_price": 6500
+    },
+    "ck99": {
+        "name": "CK 99",
+        "scrap_price": 4100,
+        "mc_scrap_price": 8200
+    },
+    "sicapollo": {
+        "name": "SIC Apollo",
+        "scrap_price": 5050,
+        "mc_scrap_price": 10100
+    },
+    "usp": {
+        "name": "USP",
+        "scrap_price": 6100,
+        "mc_scrap_price": 12200
+    },
+    "koltanaconda": {
+        "name": "Kolt Anaconda",
+        "scrap_price": 10850,
+        "mc_scrap_price": 21700
+    },
+    "ck97b": {
+        "name": "CK 97B",
+        "scrap_price": 14750,
+        "mc_scrap_price": 29500
+    },
+    "desertfox": {
+        "name": "Desert Fox",
+        "scrap_price": 24350,
+        "mc_scrap_price": 48700
+    },
+    "sw500": {
+        "name": "SW 500",
+        "scrap_price": 27125,
+        "mc_scrap_price": 54250
+    },
+    "alphabull": {
+        "name": "Alpha Bull",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "475magnum": {
+        "name": "475 Magnum",
+        "scrap_price": 48450,
+        "mc_scrap_price": 96900
+    },
+    "corpseshooter": {
+        "name": "Corpse Shooter",
+        "scrap_price": 48500,
+        "mc_scrap_price": 97000
+    },
+    "greyhawk55": {
+        "name": "Greyhawk 55",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "vlockxd11": {
+        "name": "Vlock XD11",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "duskenforcer": {
+        "name": "Dusk Enforcer",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "doubleshotaax": {
+        "name": "DoubleShot AAX",
+        "scrap_price": 100000,
+        "mc_scrap_price": 200000
+    },
+    "xduskenforcer": {
+        "name": "X-Dusk Enforcer",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "desertrat": {
+        "name": "Desert Rat",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "xpython": {
+        "name": "X-Python",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "chainrevolver": {
+        "name": "Chain Revolver",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "qr22obsidian": {
+        "name": "QR22 Obsidian",
+        "scrap_price": 200000,
+        "mc_scrap_price": 400000
+    },
+    "dawnenforcer": {
+        "name": "Dawn Enforcer",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "rhea55": {
+        "name": "Rhea 55",
+        "scrap_price": 200000,
+        "mc_scrap_price": 400000
+    },
+    "handtalon38": {
+        "name": "Handtalon 38",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "betarx4": {
+        "name": "Beta RX4",
+        "scrap_price": 150,
+        "mc_scrap_price": 300
+    },
+    "mini41": {
+        "name": "Mini-41",
+        "scrap_price": 275,
+        "mc_scrap_price": 550
+    },
+    "sl8": {
+        "name": "SL8",
+        "scrap_price": 850,
+        "mc_scrap_price": 1700
+    },
+    "m24": {
+        "name": "M24",
+        "scrap_price": 1850,
+        "mc_scrap_price": 3700
+    },
+    "m1garand": {
+        "name": "M1 Garand",
+        "scrap_price": 3250,
+        "mc_scrap_price": 6500
+    },
+    "chesterfield": {
+        "name": "Chesterfield",
+        "scrap_price": 5050,
+        "mc_scrap_price": 10100
+    },
+    "m21": {
+        "name": "M21",
+        "scrap_price": 5050,
+        "mc_scrap_price": 10100
+    },
+    "glacialwarfare": {
+        "name": "Glacial Warfare",
+        "scrap_price": 5050,
+        "mc_scrap_price": 10100
+    },
+    "msg9": {
+        "name": "MSG-9",
+        "scrap_price": 10850,
+        "mc_scrap_price": 21700
+    },
+    "sic550": {
+        "name": "SIC 550",
+        "scrap_price": 16925,
+        "mc_scrap_price": 33850
+    },
+    "hawkop96": {
+        "name": "Hawk OP96",
+        "scrap_price": 19250,
+        "mc_scrap_price": 38500
+    },
+    "m82a2": {
+        "name": "M82A2",
+        "scrap_price": 24350,
+        "mc_scrap_price": 48700
+    },
+    "dragonsvd": {
+        "name": "Dragon SVD",
+        "scrap_price": 24350,
+        "mc_scrap_price": 48700
+    },
+    "vssvintorez": {
+        "name": "VSS Vintorez",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "rebellion": {
+        "name": "Rebeliion",
+        "scrap_price": 1650,
+        "mc_scrap_price": 3300
+    },
+    "577rex": {
+        "name": "577 Rex",
+        "scrap_price": 48450,
+        "mc_scrap_price": 96900
+    },
+    "corpsepiercer": {
+        "name": "Corpse Piercer",
+        "scrap_price": 48450,
+        "mc_scrap_price": 96900
+    },
+    "duskcarbine": {
+        "name": "Dusk Carbine",
+        "scrap_price": 48450,
+        "mc_scrap_price": 96900
+    },
+    "ironsight33f": {
+        "name": "Ironsight 33-F",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "marksmang8": {
+        "name": "Marksman G8",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "worgcarbine": {
+        "name": "Worg Carbine",
+        "scrap_price": 100000,
+        "mc_scrap_price": 200000
+    },
+    "torchbolt": {
+        "name": "Torchbold",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "xduskcarbine": {
+        "name": "X-Dusk Carbine",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "longshotpp10": {
+        "name": "Longshot PP10",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "xgarand": {
+        "name": "X-Garand",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "dawncarbine": {
+        "name": "Dawn Carbine",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "barnellrf31crossbow": {
+        "name": "Barnell RF31 Crossbow",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "rusthound37e": {
+        "name": "Rusthound 37-E",
+        "scrap_price": 200000,
+        "mc_scrap_price": 400000
+    },
+    "hailstormc12": {
+        "name": "Hailstorm C12",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "dilmarps": {
+        "name": "Dilmar PS",
+        "scrap_price": 2550,
+        "mc_scrap_price": 5100
+    },
+    "ronanpro": {
+        "name": "Ronan Pro",
+        "scrap_price": 5450,
+        "mc_scrap_price": 10900
+    },
+    "steelms800": {
+        "name": "Steel MS800",
+        "scrap_price": 9650,
+        "mc_scrap_price": 19300
+    },
+    "grinder": {
+        "name": "Grinder",
+        "scrap_price": 20050,
+        "mc_scrap_price": 40100
+    },
+    "steel090": {
+        "name": "Steel 090",
+        "scrap_price": 24250,
+        "mc_scrap_price": 48500
+    },
+    "corpsegrinder": {
+        "name": "Corpse Grinder",
+        "scrap_price": 24250,
+        "mc_scrap_price": 48500
+    },
+    "dusksaw": {
+        "name": "Dusk Saw",
+        "scrap_price": 24250,
+        "mc_scrap_price": 48500
+    },
+    "ripsawg12": {
+        "name": "Ripsaw G12",
+        "scrap_price": 50,
+        "mc_scrap_price": 100
+    },
+    "buzzbladern8": {
+        "name": "Buzzblade RN8",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "goretooth44g": {
+        "name": "Goretooth 44G",
+        "scrap_price": 50000,
+        "mc_scrap_price": 100000
+    },
+    "xdusksaw": {
+        "name": "X-Dusk Saw",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "grinderx3": {
+        "name": "Grinder X3",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "sharktoothripper": {
+        "name": "Sharktooth Ripper",
+        "scrap_price": 100000,
+        "mc_scrap_price": 200000
+    },
+    "dawnsaw": {
+        "name": "Dawn Saw",
+        "scrap_price": 50,
+        "mc_scrap_price": 100
+    },
+    "haresplitter": {
+        "name": "Haresplitter",
+        "scrap_price": 28850,
+        "mc_scrap_price": 57700
+    },
+    "mancinim1": {
+        "name": "Mancini M1",
+        "scrap_price": 150,
+        "mc_scrap_price": 300
+    },
+    "highlander": {
+        "name": "Highlander",
+        "scrap_price": 850,
+        "mc_scrap_price": 1700
+    },
+    "washington870": {
+        "name": "Washington 870",
+        "scrap_price": 1850,
+        "mc_scrap_price": 3700
+    },
+    "sega20": {
+        "name": "Sega-20",
+        "scrap_price": 4100,
+        "mc_scrap_price": 8200
+    },
+    "chester1300": {
+        "name": "Chester 1300",
+        "scrap_price": 2500,
+        "mc_scrap_price": 5000
+    },
+    "washington1100": {
+        "name": "Washington 1100",
+        "scrap_price": 3250,
+        "mc_scrap_price": 6500
+    },
+    "wall500": {
+        "name": "WALL 500",
+        "scrap_price": 4100,
+        "mc_scrap_price": 8200
+    },
+    "spsa12": {
+        "name": "SPSA 12",
+        "scrap_price": 5050,
+        "mc_scrap_price": 10100
+    },
+    "mannberg500": {
+        "name": "Mannberg 500",
+        "scrap_price": 10850,
+        "mc_scrap_price": 21700
+    },
+    "sweeper": {
+        "name": "Sweeper",
+        "scrap_price": 19250,
+        "mc_scrap_price": 38500
+    },
+    "corpseblaster": {
+        "name": "Corpse Blaster",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "usan12": {
+        "name": "USAN-12",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "aa12": {
+        "name": "AA-12",
+        "scrap_price": 48450,
+        "mc_scrap_price": 96900
+    },
+    "painshot10": {
+        "name": "Painshot 10",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "biforcec7": {
+        "name": "Biforce C7",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "duskstriker": {
+        "name": "Dusk Striker",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "acebarrelgz3": {
+        "name": "Ace Barrel GZ3",
+        "scrap_price": 100000,
+        "mc_scrap_price": 200000
+    },
+    "xduskstriker": {
+        "name": "X-Dusk Striker",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "silverslugster": {
+        "name": "Silver Slugster",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "buckblast99a": {
+        "name": "Buckblast 99A",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "xmannberg": {
+        "name": "X-Mannberg",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "chimneysweeper": {
+        "name": "Chimney Sweeper",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "dawnstriker": {
+        "name": "Dawn Striker",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "gawbl1n": {
+        "name": "GAW BL-1N",
+        "scrap_price": 200000,
+        "mc_scrap_price": 400000
+    },
+    "bucktoothblaster": {
+        "name": "Bucktooth Blaster",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "clawshot16": {
+        "name": "Clawshot 16",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "skorpion": {
+        "name": "Skorpion",
+        "scrap_price": 275,
+        "mc_scrap_price": 550
+    },
+    "uzi": {
+        "name": "UZI",
+        "scrap_price": 275,
+        "mc_scrap_price": 550
+    },
+    "fmp90": {
+        "name": "FM P90",
+        "scrap_price": 850,
+        "mc_scrap_price": 1700
+    },
+    "mp5": {
+        "name": "MP5",
+        "scrap_price": 1300,
+        "mc_scrap_price": 2600
+    },
+    "pp90": {
+        "name": "PP90",
+        "scrap_price": 2500,
+        "mc_scrap_price": 5000
+    },
+    "grammm11": {
+        "name": "Gramm M11",
+        "scrap_price": 3250,
+        "mc_scrap_price": 6500
+    },
+    "ump": {
+        "name": "UMP",
+        "scrap_price": 5050,
+        "mc_scrap_price": 10100
+    },
+    "chicagotypewriter": {
+        "name": "Chicago Typewriter",
+        "scrap_price": 14750,
+        "mc_scrap_price": 29500
+    },
+    "k50m": {
+        "name": "K-50M",
+        "scrap_price": 24350,
+        "mc_scrap_price": 48700
+    },
+    "crissvictor": {
+        "name": "Criss Victor",
+        "scrap_price": 44150,
+        "mc_scrap_price": 88300
+    },
+    "corpseripper": {
+        "name": "Corpse Ripper",
+        "scrap_price": 44150,
+        "mc_scrap_price": 88300
+    },
+    "uziel14mm": {
+        "name": "Uziel 14MM",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "dusksmg": {
+        "name": "Dusk SMG",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "handshocka8": {
+        "name": "Handshock A8",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "streetdog99": {
+        "name": "Street Dog 99",
+        "scrap_price": 100000,
+        "mc_scrap_price": 200000
+    },
+    "ninecutterx": {
+        "name": "Nine Cutter-X",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "xdusksmg": {
+        "name": "X-Dusk SMg",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "xmp5": {
+        "name": "X-MP5",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "santaslittlehelper": {
+        "name": "Santa's Little Helper",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "dawnsmg": {
+        "name": "Dawn SMG",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "heatpit75": {
+        "name": "Heat Pit 75",
+        "scrap_price": 200000,
+        "mc_scrap_price": 400000
+    },
+    "m16": {
+        "name": "M16",
+        "scrap_price": 3250,
+        "mc_scrap_price": 6500
+    },
+    "fmfnc": {
+        "name": "FM FNC",
+        "scrap_price": 3250,
+        "mc_scrap_price": 6500
+    },
+    "sa80": {
+        "name": "SA80",
+        "scrap_price": 3250,
+        "mc_scrap_price": 6500
+    },
+    "mesaacr": {
+        "name": "Mesa ACR",
+        "scrap_price": 3250,
+        "mc_scrap_price": 6500
+    },
+    "stellaug": {
+        "name": "Stell AUG",
+        "scrap_price": 4100,
+        "mc_scrap_price": 8100
+    },
+    "xm8": {
+        "name": "XM8",
+        "scrap_price": 14750,
+        "mc_scrap_price": 29500
+    },
+    "fmfal": {
+        "name": "FM Fal",
+        "scrap_price": 14750,
+        "mc_scrap_price": 29500
+    },
+    "ak47": {
+        "name": "AK 47",
+        "scrap_price": 19250,
+        "mc_scrap_price": 38500
+    },
+    "m4": {
+        "name": "M4",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "hammerhead47": {
+        "name": "Hammerhead 47",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "amberraider": {
+        "name": "Amber Raider",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "xak47": {
+        "name": "X-AK 47",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "amethystraider": {
+        "name": "Amethyst Raider",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "a10bullshark": {
+        "name": "A10 Bull Shark",
+        "scrap_price": 200000,
+        "mc_scrap_price": 400000
+    },
+    "fmmitrail": {
+        "name": "FM Mitrail",
+        "scrap_price": 24350,
+        "mc_scrap_price": 48700
+    },
+    "fmmag": {
+        "name": "FM Mag",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "m60": {
+        "name": "M60",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "corpsedestroyer": {
+        "name": "Corpse Destroyer",
+        "scrap_price": 48450,
+        "mc_scrap_price": 96900
+    },
+    "duskmag": {
+        "name": "Dusk MAG",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "hareraiser": {
+        "name": "Hareraiser",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "xduskmag": {
+        "name": "X-Dusk MAG",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "dawnmag": {
+        "name": "Dawn MAG",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "vulcan": {
+        "name": "Vulcan",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "xlgunner8": {
+        "name": "XLGunner-8",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "scar9000": {
+        "name": "SCAR 9000",
+        "scrap_price": 100000,
+        "mc_scrap_price": 200000
+    },
+    "gau19": {
+        "name": "GAU-19",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "tempest": {
+        "name": "Tempest",
+        "scrap_price": 200000,
+        "mc_scrap_price": 400000
+    },
+    "wraithcannon": {
+        "name": "Wraith Cannon",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "m79": {
+        "name": "M79",
+        "scrap_price": 850,
+        "mc_scrap_price": 1700
+    },
+    "hk69": {
+        "name": "HK69",
+        "scrap_price": 3250,
+        "mc_scrap_price": 6500
+    },
+    "gm94": {
+        "name": "gm94",
+        "scrap_price": 10860,
+        "mc_scrap_price": 21700
+    },
+    "rg6": {
+        "name": "RG6",
+        "scrap_price": 19250,
+        "mc_scrap_price": 38500
+    },
+    "falconmm1": {
+        "name": "Falcon-MM1",
+        "scrap_price": 24350,
+        "mc_scrap_price": 48700
+    },
+    "xm25": {
+        "name": "XM25",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "paw20": {
+        "name": "PAW-20",
+        "scrap_price": 48450,
+        "mc_scrap_price": 96900
+    },
+    "corpseerruptor": {
+        "name": "Corpse Erruptor",
+        "scrap_price": 48450,
+        "mc_scrap_price": 96900
+    },
+    "immolatorad": {
+        "name": "Immolator AD",
+        "scrap_price": 40050,
+        "mc_scrap_price": 80100
+    },
+    "bishopce9": {
+        "name": "Bishop CE9",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "junker6": {
+        "name": "Junker 6",
+        "scrap_price": 100000,
+        "mc_scrap_price": 200000
+    },
+    "eggsplodermm1": {
+        "name": "Eggsploder-MM1",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "xdusklauncher": {
+        "name": "X-Dusk Launcher",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "xm79": {
+        "name": "X-M79",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "boomerpx": {
+        "name": "Boomer PX",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "cryolauncher": {
+        "name": "Cryo Launcher",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "scorchernk19": {
+        "name": "Scorcher NK19",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "dawnlauncher": {
+        "name": "Dawn Launcher",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "fatmanscryothrower": {
+        "name": "Fatman's Cryothrower",
+        "scrap_price": 50,
+        "mc_scrap_price": 100
+    },
+    "tn8flamethrower": {
+        "name": "TN8 Flamethrower",
+        "scrap_price": 57650,
+        "mc_scrap_price": 115300
+    },
+    "sportsarmour": {
+        "name": "Sports Armour",
+        "scrap_price": 1050,
+        "mc_scrap_price": 2100
+    },
+    "zylonvest": {
+        "name": "Zylon Vest",
+        "scrap_price": 3450,
+        "mc_scrap_price": 6900
+    },
+    "kevlarvest": {
+        "name": "Kevlar Vest",
+        "scrap_price": 3450,
+        "mc_scrap_price": 6900
+    },
+    "meshslxs": {
+        "name": "Mesh SLX",
+        "scrap_price": 19450,
+        "mc_scrap_price": 38900
+    },
+    "meshrx2": {
+        "name": "Mesh RX-2",
+        "scrap_price": 19450,
+        "mc_scrap_price": 38900
+    },
+    "exterminatormesh": {
+        "name": "Exterminator Mesh",
+        "scrap_price": 40250,
+        "mc_scrap_price": 80500
+    },
+    "exterminatormeshgt": {
+        "name": "Exterminator Mesh GT",
+        "scrap_price": 40250,
+        "mc_scrap_price": 80500
+    },
+    "nomadmesh": {
+        "name": "Nomad Mesh",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "duskmesh": {
+        "name": "Dusk Mesh",
+        "scrap_price": 40250,
+        "mc_scrap_price": 80500
+    },
+    "scavengermesh": {
+        "name": "Scavenger Mesh",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "shinobumesh": {
+        "name": "Shinobu Mesh",
+        "scrap_price": 128250,
+        "mc_scrap_price": 286500
+    },
+    "xduskmesh": {
+        "name": "X-Dusk Mesh",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "hazardmesh": {
+        "name": "Hazard Mesh",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "xterminatormesh": {
+        "name": "X-Terminator Mesh",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "titanhuntermesh": {
+        "name": "Titan Hunter Mesh",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "dawnmesh": {
+        "name": "Dawn Mesh",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "flakjacket": {
+        "name": "Flak Jacket",
+        "scrap_price": 11050,
+        "mc_scrap_price": 22100
+    },
+    "sn42": {
+        "name": "SN-42",
+        "scrap_price": 11050,
+        "mc_scrap_price": 22100
+    },
+    "reactiveslx": {
+        "name": "Reactive SLX",
+        "scrap_price": 19450,
+        "mc_scrap_price": 38900
+    },
+    "reactivext800": {
+        "name": "Reactive XT800",
+        "scrap_price": 19450,
+        "mc_scrap_price": 38900
+    },
+    "exterminatorreactive": {
+        "name": "Exterminator Reactive",
+        "scrap_price": 40250,
+        "mc_scrap_price": 80500
+    },
+    "exterminatorreactivext": {
+        "name": "Exterminator Reactive XT",
+        "scrap_price": 40250,
+        "mc_scrap_price": 80500
+    },
+    "bioreactive": {
+        "name": "Bio Reactive",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "duskreactive": {
+        "name": "Dusk Reactive",
+        "scrap_price": 40250,
+        "mc_scrap_price": 80500
+    },
+    "steelcasereactive": {
+        "name": "Steelcase Reactive",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "tatakaureactive": {
+        "name": "Tatakau Reactive",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "corpsecarapace": {
+        "name": "Corpse Carapace",
+        "scrap_price": 40250,
+        "mc_scrap_price": 80500
+    },
+    "xduskreactive": {
+        "name": "X-Dusk Reactive",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "scarabreactive": {
+        "name": "Scarab Reactive",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "xterminator": {
+        "name": "X-Terminator Reactive",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "hazardreactive": {
+        "name": "Hazard Reactive",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "dawnreactive": {
+        "name": "Dawn Reactive",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    },
+    "vengeanceguard": {
+        "name": "Vengeance Guard",
+        "scrap_price": 128250,
+        "mc_scrap_price": 256500
+    }
+}
