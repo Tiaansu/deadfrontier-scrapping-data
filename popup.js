@@ -12,6 +12,14 @@ xhr.onload = () => {
 };
 xhr.send()
 
+let json;
+
+(async () => {
+    json = await fetch('https://raw.githubusercontent.com/Tiaansu/deadfrontier-scrapping-data/main/data.json')
+    .then((response) => response.json())
+    .catch((e) => {})
+})()
+
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     if (message.dataType) {
         const name = message.dataType.split('_')[0];

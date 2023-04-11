@@ -1268,5 +1268,10 @@
         "name": "Vengeance Guard",
         "scrap_price": 128250,
         "mc_scrap_price": 256500
+    },
+    "raptorx9": {
+        "name": "Raptor-X9",
+        "scrap_price": 200000,
+        "mc_scrap_price": 400000
     }
 }
