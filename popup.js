@@ -3,22 +3,14 @@ console.log('Popup script loaded from Dead Frontier Scrapping version 1.0.0 load
 let jsonData;
 
 let xhr = new XMLHttpRequest();
-xhr.open('GET', '/data.json', true);
+xhr.open('GET', 'https://raw.githubusercontent.com/Tiaansu/deadfrontier-scrapping-data/main/data.json' /* '/data.json' */, true);
 xhr.responseType = 'json';
 xhr.onload = () => {
     if (xhr.status === 200) {
         jsonData = xhr.response;
     }
 };
-xhr.send()
-
-let json;
-
-(async () => {
-    json = await fetch('https://raw.githubusercontent.com/Tiaansu/deadfrontier-scrapping-data/main/data.json')
-    .then((response) => response.json())
-    .catch((e) => {})
-})()
+xhr.send();
 
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     if (message.dataType) {
